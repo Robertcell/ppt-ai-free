@@ -28,7 +28,7 @@
 自动：仅需输入主题，剩下的交给AI<br>
 定制：提出你的想法，AI给你定制化的内容
 
-![](https://files.mdnice.com/user/75077/eec60dfa-9090-4531-a4ab-146a6a2061e3.png)
+![ai-ppt-one-click](https://github.com/user-attachments/assets/7121b8dd-2b43-4e21-a20e-7929df868438)
 
 ### 上传自己的资料生成PPT
 担心AI生成不理想？
@@ -38,7 +38,7 @@
 特别适合根据论文生成答辩PPT
 
 
-![](https://files.mdnice.com/user/75077/910dc1b2-b852-4edf-ba50-4b34abb08370.png)
+![ai-ppt-file](https://github.com/user-attachments/assets/5368a9bb-c53e-4613-8afa-685bdf5ecdad)
 
 ### PPT素材自动生成
 其实在制作PPT的时候，最头疼的是要找各种各样的素材，各种各样的图标和图片，什么有序列表、无序列表、环状图等等
@@ -46,20 +46,20 @@
 这个工具直接把素材自动生成了
 
 
-![](https://files.mdnice.com/user/75077/fef67d4a-aa6e-48ca-bb4c-b3ca4de09201.jpg)
+![ai-ppt-source](https://github.com/user-attachments/assets/c679edcd-be9e-4e09-a337-8bd875f8178e)
 
 ### 海量PPT 模板
 一个好的模板其实能够大幅度提升PPT的档次以及想要传递的思想
 
 系统里面有大量的模版，什么商务风、小清新、国风、简约风、卡通手绘等等，就算是做完了也能换模版
 
-![](https://files.mdnice.com/user/75077/25802fe5-d5ce-4d87-ae09-f5be05515a9a.jpg)
+![ai-ppt-template](https://github.com/user-attachments/assets/1b9cf3ed-4131-4977-9576-091679f088c9)
 
 ### 自定义PPT模板
 如果集团或者公司有自己的固定PPT模板，也没有关系，只需要将自己的PPT模板上传，会将模板自动分析为首页/尾页、章节/目录页、内容页等等。
 
 
-![](https://files.mdnice.com/user/75077/76334d16-5e61-41fd-997d-061c6f94f87e.png)
+![ai-ppt-customer-template](https://github.com/user-attachments/assets/cec5b963-5d3c-4a1a-ab19-673c985ff981)
 
 
 ## 2、[Gamma App](https://gamma.app/)
