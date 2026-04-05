@@ -1,4 +1,4 @@
-# PPT AI生成免费工具汇总【2025年1月更新】
+# PPT AI生成免费工具汇总【2026年4月更新】
 
 ## 什么是PPT AI生成工具？
 **PPT AI生成**工具是利用人工智能技术自动生成PPT演示文档的在线或离线工具。它们可以从用户提供的文本、数据或结构信息中生成具有专业外观的PPT，这不仅节省时间，还提升了效率。
@@ -15,10 +15,10 @@
 
 本文精选了8款免费的自动生成PPT软件和aippt服务，它们不仅提供丰富的ppt模板，还能让你轻松实现pptai一键生成的便捷体验
 
-## 1、[智慧岛Office AI PPT](https://chat.lify.vip)
+## 1、[Lazyman AI PPT](https://lazymanchat.com)
 
 一键自动生成PPT
-点击链接直达官网>>[chat.lify.vip/aippt](https://chat.lify.vip)
+点击链接直达官网>>[lazymanchat.com/aippt](https://lazymanchat.com)
 
 智慧岛Office非常适合办公以及科研人员的AI工具，包括AI PPT以及GPT AI对话。
 
